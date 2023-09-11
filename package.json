@@ -37,7 +37,7 @@
     "libnpmsearch": "^2.0.2",
     "libnpmteam": "^1.0.2",
     "lock-verify": "^2.0.2",
-    "npm-lifecycle": "https://github.com/pulsar-edit/npm-lifecycle/releases/download/v3.1.6-pulsar/npm-lifecycle-3.1.6-pulsar.tgz",
+    "npm-lifecycle": "https://github.com/DeeDeeG/npm-lifecycle/archive/7d7d20ffbb596602c2ef6caaad9356413aa586ba.tar.gz",
     "npm-logical-tree": "^1.2.1",
     "npm-package-arg": "^6.1.0",
     "npm-profile": "^4.0.2",
